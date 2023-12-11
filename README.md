@@ -1,2 +1,2 @@
-# gametopia.github.io
-gametopia.github.io
+# gamedevtopia.github.io
+gamedevtopia.github.io
